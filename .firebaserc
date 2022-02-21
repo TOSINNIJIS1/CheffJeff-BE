@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cheffjeffart"
+  },
+  "targets": {
+    "cheffjeffart": {
+      "hosting": {
+        "jp": [
+          "jeffp-art"
+        ]
+      }
+    }
+  }
+}

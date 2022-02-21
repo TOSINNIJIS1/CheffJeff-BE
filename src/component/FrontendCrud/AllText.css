@@ -1,0 +1,23 @@
+/*TO DO:
+1. Update to responsive layout.
+*/
+
+/* Basic Style */
+*{
+    margin: 0;
+    padding: 0;
+}
+/*  */
+body {
+    max-height: 100%;
+    
+
+}
+
+.container {
+
+    /* margin: 100px auto; */
+}
+
+
+
